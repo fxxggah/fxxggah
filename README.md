@@ -1,4 +1,4 @@
-### Oiii! Eu sou o fxxggah
+### Olá! Eu sou o Gabriel
 
 <div align="center">
   <a href="https://github.com/fxxggah">
@@ -46,7 +46,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fxxggah/fxxggah/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
