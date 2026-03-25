@@ -1,112 +1,52 @@
-# 👋 Gabriel Oliveira | Backend Developer
+### Oiii! Eu sou o fxxggah
 
-💻 **Java Backend Developer | Software Engineering Student**
+<div align="center">
+  <a href="https://github.com/fxxggah">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-Desenvolvedor backend com foco em **Java, APIs REST e sistemas escaláveis**.  
-Buscando evoluir constantemente em **arquitetura de software, cloud e sistemas distribuídos**.
+<br/>
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-# 🚀 Sobre mim
+<br/>
 
-🎓 Estudante de **Engenharia de Software** e **Técnico em Desenvolvimento de Sistemas**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+        <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://i.pinimg.com/736x/8f/a9/3c/8fa93c0615456f9e5c102c7b5f106f97.jpg" width="120" style="border-radius: 10px;" alt="Avatar">
+      </td>
+    </tr>
+  </table>
+</div>
 
-💡 Foco principal em **backend com Java**
+<br/>
 
-📚 Estudando constantemente **arquitetura, boas práticas e sistemas escaláveis**
-
-🎯 Objetivo:  
-> Tornar-me um **Engenheiro Backend Java de alto nível**, especializado na construção de sistemas escaláveis.
-
----
-
-# 🛠️ Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Testes
-
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5)
-![Mockito](https://img.shields.io/badge/Mockito-5C2D91?style=for-the-badge)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 📚 Atualmente Estudando
-
-☁️ AWS  
-📨 Mensageria (Kafka / RabbitMQ)  
-🏗️ Clean Architecture  
-🔧 Microsserviços  
-
----
-
-# 🚀 Projetos em Destaque
-
-### 📦 API REST de Gerenciamento de Estoque
-
-API desenvolvida em **Java + Spring Boot** para gerenciamento de produtos e categorias, aplicando boas práticas de desenvolvimento backend.
-
-**Tecnologias utilizadas**
-
-- Java
-- Spring Boot
-- MySQL
-- Docker
-- JUnit5
-- Mockito
-
----
-
-### 💼 Plataforma de Freelancers (TCC)
-
-Sistema backend para conexão entre **freelancers e contratantes**, com autenticação segura e controle de permissões.
-
-**Funcionalidades**
-
-- Autenticação com **JWT**
-- Controle de roles (**FREELANCER / EMPLOYER**)
-- API REST
-- Arquitetura organizada por domínio
-
----
-
-# 🚧 Projetos Futuros
-
-- SaaS de **gestão de estoque e dashboard de vendas**
-- **Catálogo online** para loja de roupas
-- **Sistema de gerenciamento financeiro**
-
----
-
-# 📊 GitHub Stats
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=fxxggah&theme=tokyonight)
-
----
-
-# 🌎 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-oliveira-da-silva-btu)
-
----
-
-# 💡 Filosofia
-
-> Transformando ideias em sistemas reais.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fxxggah/fxxggah/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
