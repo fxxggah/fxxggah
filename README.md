@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Gabriel 👋
 
 <div align="center">
-  <a href="https://github.com/fxxggah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=github_dark"/>
-  </a>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=tokyonight"/>
+</p>
 </div>
 
 ---
