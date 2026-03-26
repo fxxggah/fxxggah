@@ -51,8 +51,6 @@
 
 ---
 
----
-
 ### 📫 Conecte comigo
 
 <div align="center">
