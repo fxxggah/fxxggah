@@ -32,7 +32,7 @@
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss" alt="Frontend Stack" />
   </a>
 
 </div>
