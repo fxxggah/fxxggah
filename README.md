@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=aura"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxxggah&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=tokyonight"/>
 </div>
 
 
