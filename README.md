@@ -7,7 +7,9 @@
   </a>
 </div>
 
-<br/>
+---
+
+### 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -36,6 +38,10 @@
   <img width="12" />
 
 </div>
+
+---
+
+### 📫 Connect with me
 
 <div align="center">
   <table border="0">
