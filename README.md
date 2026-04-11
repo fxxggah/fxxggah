@@ -9,8 +9,6 @@
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=fxxggah&theme=tokyonight"/>
-  <img width="15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxxggah&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
