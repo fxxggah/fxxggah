@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Gabriel Oliveira 👋
+# Hi There! I'm Gabriel Oliveira 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%2B+Spring+Boot;Exploring+Frontend;Always+learning..." alt="Typing SVG" />
 </a>
