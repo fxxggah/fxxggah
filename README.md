@@ -41,16 +41,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-oliveira-da-silva-btu/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-oliveira-da-silva-btu/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://gabriel-oliveira.dev" target="_blank">
+<a href="https://gabriel-oliveira.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=enterprise&logoColor=white" alt="Portfólio" />
 </a>
-<a href="mailto:gabrielsilvaoli07@gmail.com">
+<a href="mailto:gabrielsilvaoli07@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 
 
 ---
